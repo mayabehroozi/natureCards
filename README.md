@@ -2,7 +2,8 @@
 natureCards; an easy JS trick
 
 I developed this project with HTML , CSS , Java Script.
-![Image](![Image](https://github.com/user-attachments/assets/871a1eb9-147d-4a1c-9252-80a859e21652))
+
+![Image](https://github.com/user-attachments/assets/861d767d-37b0-4a32-ac13-333e35e86bf8)
 
 - [Demo Project](https://mayabehroozi.github.io/natureCards/) 
 - Developed by maya behroozi
